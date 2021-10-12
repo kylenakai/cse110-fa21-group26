@@ -33,10 +33,10 @@
 
 ## Conflict Resolution
 Types of Problems:
-- Work Related: Deadlines, not doing you job,
-- Personal
-- Resolution Levels: 
-- 1st level: Meet/resolve within team
+- Work Related: Not meeting deadlines, Ignoring responsibilities, Exceptionally poor work quality.
+- Personal: Teammate dispute/disagreement, Personal Issues, etc.
+ Resolution Process: 
+- 1st level: Meet/resolve within team; discuss with concerned parties.
 - 2nd level: Bring in TA/prof
 
 ## Suggested Statement
